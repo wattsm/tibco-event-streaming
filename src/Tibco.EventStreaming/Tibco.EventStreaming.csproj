@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
     <Reference Include="TIBCO.EMS, Version=1.0.630.5, Culture=neutral, PublicKeyToken=5b83db8ff05c64ba, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\..\..\Dev\DesignAuthority\Projects\Tribal\Switchboard\dev\Tribal.Switchboard\references\TIBCO.EMS.dll</HintPath>
+      <HintPath>..\..\lib\TIBCO.EMS.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
