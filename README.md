@@ -5,3 +5,8 @@ and setting the MessageConsumer.MessageListener property.
 
 
 Seemingly in both scenarios events are received regardless of whether the previously received message has been acknowledged or not.
+
+### TIBCO.EMS.dll
+
+Due to licensing reasons you will need to provide your own TIBCO.EMS.dll. The project is currently configured to expect it in 
+a top level folder called lib alongside src.
