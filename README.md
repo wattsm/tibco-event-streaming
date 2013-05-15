@@ -1,4 +1,4 @@
-## tibco-event-streaming
+## Tibco EMS event streaming
 
 Demonstrates event streaming from Tibco using two methods - the binding MessageConsumer.MessageHandler to the event 
 and setting the MessageConsumer.MessageListener property.
